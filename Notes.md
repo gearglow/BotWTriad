@@ -14,7 +14,7 @@ Plot Points:
 
 - They stay in Kakariko for awhile so Zelda can learn to fight better. Up to then Link's done most of it, and though Zelda's not completely helpless (and is in fact a natural) she's undisciplined.
 
--  Paya grows more comfortable around them pretty quickly, and Impa more-or-less orders her to accompany Z and L on their journey. She doesn't argue much.
+- Paya grows more comfortable around them pretty quickly, and Impa more-or-less orders her to accompany Z and L on their journey. She doesn't argue much.
 
 - They make for Gerudo Town after Zelda remembers Urbosa at the Lanayru Road's East Gate. They manage to escape the blue-maned lynel, and realize that martial prowess isn't going to be enough. Aside from everything else, maybe they'll be able to learn some battle-magic like Urbosa's.
 
@@ -35,3 +35,27 @@ Plot Points:
 - Reeling from the defeat of the Blights, Ganon retreats into its own, corrupted version of the Shrine of Resurrection to regain strength before the inevitable showdown. This gives the trio enough time to complete Maz Koshia's trials and come into their own before the final battle.
 
 - The trio make an excursion into the castle well before the final battle to raid the library. Among the secret alcoves they find volumes on lost magic and witchcraft. They find instructions for crafting flying brooms, and Zelda of course wants to try making other types of flying conveyances. Purah is ecstatic.
+
+
+Character Profiles
+-----------------------
+
+### Link
+Trans girl. Bearer of Wisdom.
+In her past life, she was Zelda's appointed knight and bearer of the Master Sword. She never had the chance to do anything about transitioning, so history knows her old self as a boy. She was taciturn to a fault, and tended to either stand aloof or throw herself into recklessness in overcompensation. It's a life she's glad to be rid of, aside from the people she's lost.
+In her new life, thanks to the encouragement of her friends (Zelda and Vilia in particular) she's an aspiring mage and healer. She's much more open and friendly, while also being calmer and somewhat soft-spoken. She's still a fierce fighter when necessary, and a steadfast companion to Zelda and Paya always.
+
+### Zelda
+Cis girl. Bearer of Power.
+In her past life, she was the crown princess of Hyrule. Her mother died when she was 6, and her father, King Rhoam, threw himself into his duties in his grief. With the Prophecy, and the excavations unearthing the Divine Beasts and such, Zelda was forced to single-mindedly pursue awakening her "sealing power" by her ignorant father to the exclusion of even a moment's respite, and to the extreme detriment of her own well-being. He was an abusive cunt, to be frank, and his actions led directly to the fall of Hyrule.
+In her new life, Zelda is an aspiring battlemage and scholar. She's fierce, driven, and takes no shit, while still remaining compassionate. She's the most passionate of the triad.
+
+### Paya
+Cis girl. Bearer of Courage.
+Her grandmother, Impa, was once Zelda's attendant and royal advisor. This gave Paya an overly-strong sense of tradition, to the point where it ended up stifling her as a person. After joining Zelda and Link on their travels, she loosens up and learns to strike a balance between tradition and growth -- in particular, she takes to both illusion and defensive magics with a will. While she does become a bit more outgoing, and is ever a fierce defender in battle, she's still the most shy of the triad.
+
+
+Magic and Enchanting
+--------------------------
+
+Using the rules from the Reclaiming the Wild TTRPG for structure.
