@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "28dc6168d3fe12e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0dfd247b8833645",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c49b6bc7054a523e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ff62c82846ff9da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d62675be85bce82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "04ae4be484bea0f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5678d6334de6ce4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6690247995c1ad68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "380b3720cd119bab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da738b92683dc80e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "b0dfd247b8833645",
+  "lastOpenFiles": [
+    "Notes.md"
+  ]
+}
