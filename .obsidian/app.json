@@ -4,5 +4,13 @@
   "foldHeading": true,
   "foldIndent": true,
   "readableLineLength": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Zelda",
+    "paraglider",
+    "Sheikah",
+    "Ganon",
+    "Gerudo"
+  ]
 }

@@ -41,17 +41,17 @@ Character Profiles
 -----------------------
 
 ### Link
-Trans girl. Bearer of Wisdom.
+Trans girl. Hero of Wisdom.
 In her past life, she was Zelda's appointed knight and bearer of the Master Sword. She never had the chance to do anything about transitioning, so history knows her old self as a boy. She was taciturn to a fault, and tended to either stand aloof or throw herself into recklessness in overcompensation. It's a life she's glad to be rid of, aside from the people she's lost.
 In her new life, thanks to the encouragement of her friends (Zelda and Vilia in particular) she's an aspiring mage and healer. She's much more open and friendly, while also being calmer and somewhat soft-spoken. She's still a fierce fighter when necessary, and a steadfast companion to Zelda and Paya always.
 
 ### Zelda
-Cis girl. Bearer of Power.
+Cis girl. Hero of Power.
 In her past life, she was the crown princess of Hyrule. Her mother died when she was 6, and her father, King Rhoam, threw himself into his duties in his grief. With the Prophecy, and the excavations unearthing the Divine Beasts and such, Zelda was forced to single-mindedly pursue awakening her "sealing power" by her ignorant father to the exclusion of even a moment's respite, and to the extreme detriment of her own well-being. He was an abusive cunt, to be frank, and his actions led directly to the fall of Hyrule.
 In her new life, Zelda is an aspiring battlemage and scholar. She's fierce, driven, and takes no shit, while still remaining compassionate. She's the most passionate of the triad.
 
 ### Paya
-Cis girl. Bearer of Courage.
+Cis girl. Hero of Courage.
 Her grandmother, Impa, was once Zelda's attendant and royal advisor. This gave Paya an overly-strong sense of tradition, to the point where it ended up stifling her as a person. After joining Zelda and Link on their travels, she loosens up and learns to strike a balance between tradition and growth -- in particular, she takes to both illusion and defensive magics with a will. While she does become a bit more outgoing, and is ever a fierce defender in battle, she's still the most shy of the triad.
 
 
