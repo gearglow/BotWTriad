@@ -36,9 +36,6 @@ Plot Points:
 
 - The trio make an excursion into the castle well before the final battle to raid the library. Among the secret alcoves they find volumes on lost magic and witchcraft. They find instructions for crafting flying brooms, and Zelda of course wants to try making other types of flying conveyances. Purah is ecstatic.
 
-- "It's 108 miles to the castle, we've got a full tank of gas, it's dark, and we're wearing sunglasses." "Hit it."
-
-- "We're on a mission from the Goddess," Zelda said seriously. "We're getting the band back together!" Link chirped gleefully.
 
 
 Character Profiles
@@ -63,3 +60,14 @@ Magic and Enchanting
 --------------------------
 
 Using the rules from the Reclaiming the Wild TTRPG for structure.
+
+
+Misc. Lines
+---------
+- Link and Zelda sat on the Master Cycle, gazing into the distance.
+"It's 108 miles to the castle, we've got a full tank of gas, half a dozen fairies, it's dark, and we're wearing sunglasses." 
+"Hit it."
+
+- "We're on a mission from the Goddess," Zelda said seriously. 
+"We're getting the band back together!" Link chirped gleefully.
+Impa had never face-palmed so hard.

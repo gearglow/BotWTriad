@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapters/002.md",
+            "file": "Chapters/003.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5678d6334de6ce4b",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/002.md",
+                "file": "Chapters/003.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapters/002.md"
+                "file": "Chapters/003.md"
               }
             }
           }
@@ -94,13 +95,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "b0dfd247b8833645",
   "lastOpenFiles": [
-    "Chapters/002.md",
-    "Chapters/001.md",
     "Chapters/Untitled.md",
-    "Notes.md"
+    "Chapters/002.md",
+    "Notes.md",
+    "Chapters/001.md"
   ]
 }
