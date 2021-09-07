@@ -64,3 +64,5 @@ return
 
 :R:@l::Link
 :R:@z::Zelda
+:R:=ss::Sheikah Slate
+:R:=mr::Magnesis
