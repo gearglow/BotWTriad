@@ -66,3 +66,4 @@ return
 :R:@z::Zelda
 :R:=ss::Sheikah Slate
 :R:=mr::Magnesis
+:R:=kk::Kakariko
