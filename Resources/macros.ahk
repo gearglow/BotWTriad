@@ -67,3 +67,4 @@ return
 :R:=ss::Sheikah Slate
 :R:=mr::Magnesis
 :R:=kk::Kakariko
+:R:=cr::Cryonis
