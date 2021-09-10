@@ -36,6 +36,7 @@ Plot Points:
 
 - The trio make an excursion into the castle well before the final battle to raid the library. Among the secret alcoves they find volumes on lost magic and witchcraft. They find instructions for crafting flying brooms, and Zelda of course wants to try making other types of flying conveyances. Purah is ecstatic.
 
+- Maz Koshia's "shrine" is the Great Hub, the generator and master relay for all of the Sheikah tech throughout Hyrule. It's also the central repository for all of the ancients' knowledge, and is lined with the same material as was used to create the Ocarina of Time, and so time can be stretched or compressed within its confines. It's also why time passes so strangely inside the shrines.
 
 
 Character Profiles
@@ -71,3 +72,5 @@ Misc. Lines
 - "We're on a mission from the Goddess," Zelda said seriously. 
 "We're getting the band back together!" Link chirped gleefully.
 Impa had never face-palmed so hard.
+
+- Title for the above crack-fic: The Champion Blues
