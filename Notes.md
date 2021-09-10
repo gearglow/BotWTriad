@@ -67,7 +67,7 @@ Magic and Enchanting
 Using the rules from the Reclaiming the Wild TTRPG for structure.
 
 
-Knowledge Banks
+Knowledge Banks and Their Monk Overseers
 ----------------------------
 
 - Maz Koshia: The Great Hub. Located beneath the Great Plateau. Houses the master generator and primary relays for all Sheikah tech, excepting the Guardians (which are routed through the Castle Hub overseen by monk Saas Ko'sah). Contains backups of everything stored at the other locations, as well as preserved technology not found elsewhere (such as more slates).
