@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5678d6334de6ce4b",
@@ -101,12 +100,12 @@
   "active": "b0dfd247b8833645",
   "lastOpenFiles": [
     "Chapters/004.md",
-    "Chapters/003.md",
     "Chapters/002.md",
-    "Outtakes.md",
+    "Chapters/003.md",
+    "Notes.md",
     "Chapters/001.md",
+    "Outtakes.md",
     "Untitled.md",
-    "Chapters/Untitled.md",
-    "Notes.md"
+    "Chapters/Untitled.md"
   ]
 }

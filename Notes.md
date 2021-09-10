@@ -38,6 +38,10 @@ Plot Points:
 
 - Maz Koshia's "shrine" is the Great Hub, the generator and master relay for all of the Sheikah tech throughout Hyrule. It's also the central repository for all of the ancients' knowledge, and is lined with the same material as was used to create the Ocarina of Time, and so time can be stretched or compressed within its confines. It's also why time passes so strangely inside the shrines.
 
+- There are several key libraries which the monks maintain still. The biggest is the Great Hub, located under the Great Plateau and overseen by Maz Koshia, the head monk. The Great Hub also houses the master generator, which powers the Divine Beasts, the Tower/Shrine network, and the slates. There are also specialized libraries at each of the Springs, and smaller libraries at various other shrines.
+
+- Maz Koshia cut the power to the Divine Beasts when Ganon killed their Champions. It was reactivated when L and Z awoke, in order to enable access to the shrines and towers.
+
 
 Character Profiles
 -----------------------
@@ -50,7 +54,7 @@ In her new life, thanks to the encouragement of her friends (Zelda and Vilia in 
 ### Zelda
 Cis girl. Hero of Power.
 In her past life, she was the crown princess of Hyrule. Her mother died when she was 6, and her father, King Rhoam, threw himself into his duties in his grief. With the Prophecy, and the excavations unearthing the Divine Beasts and such, Zelda was forced to single-mindedly pursue awakening her "sealing power" by her ignorant father to the exclusion of even a moment's respite, and to the extreme detriment of her own well-being. He was an abusive cunt, to be frank, and his actions led directly to the fall of Hyrule.
-In her new life, Zelda is an aspiring battlemage and scholar. She's fierce, driven, and takes no shit, while still remaining compassionate. She's the most passionate of the triad.
+In her new life, Zelda is an aspiring battle-mage and scholar. She's fierce, driven, and takes no shit, while still remaining compassionate. She's the most passionate of the triad.
 
 ### Paya
 Cis girl. Hero of Courage.
@@ -61,6 +65,29 @@ Magic and Enchanting
 --------------------------
 
 Using the rules from the Reclaiming the Wild TTRPG for structure.
+
+
+Knowledge Banks
+----------------------------
+
+- Maz Koshia: The Great Hub. Located beneath the Great Plateau. Houses the master generator and primary relays for all Sheikah tech, excepting the Guardians (which are routed through the Castle Hub overseen by monk Saas Ko'sah). Contains backups of everything stored at the other locations, as well as preserved technology not found elsewhere (such as more slates).
+- Keeha Yoog: Thunderbird Library -- situated in the Gerudo Highlands, in the heart of Gerudo Summit (the heart of the Greatest Heroine statue, as the range truly is). Contains lore about lost and foreign races.
+- Shae Katha: Courage Library -- located at the Spring of Courage by Dracozu Lake. Contains chronicles of past bearers of the Triforce of Courage. Not all of them were named Link, and not all Heroes were bearers.
+- Jitan Sa'mi: Wisdom Library -- located at the Spring of Wisdom atop Lanayru Peak. Contains chronicles of past bearers of the Triforce of Wisdom. Not all of them were named Zelda, and not all incarnations of Zelda were bearers.
+- Tutsuwa Nima: Power Library -- located at the Spring of Power in Akkala. Requires a Major Test of Strength to enter. Contains chronicles of past bearers of the Triforce of Power. Not all of them were named Ganon, and not all incarnations of Gannondorf were bearers.
+- To Quomo: The Leviathan Archives. Contains knowledge of and from the Guardian Leviathans from the days of Demise.
+- Gee Ha'rah: Rito Archives. Contains knowledge of and from Rito history.
+- Ne'ez Yohma: Zora Archives. Contains knowledge of and from Zora history. Also reachable from the Zora Royal Library through a secret passage known only to the Chief Historian, though the access key is encoded and the decryption key has been lost to time.
+- Mirro Shaz: Goron Archives. Contains knowledge of and from Goron history.
+- Korsh O'hu: Gerudo Archives. Contains knowledge of and from Gerudo history.
+- Lakna Rokee: Sheikah Archives. Contains knowledge of and from Sheikah history, including the formation of the Yiga.
+- Rona Kachta: Record of the Demise Wars and the Ganon Cycle. Hylia's Fortress Temple. In the First Calamity, was the headquarters of the Sheikah Order and the Church of Hylia.
+- Ketoh Wawai: Archives of Magic. Located deep within the Typhlo Ruins.
+- Keo Ruug: Lore of the Forest. Intended as a fail-safe should the Great Deku Tree fall, as it did in the age of the Hero of Time.
+- Lomei Labrynths: Originally the North and South Labrynths were Guardian production facilities. Lomei Labrynth Island was the R&D hub. When the Sheikah were exiled and the monks went into seclusion, they became archives on Guardians and ancient technology, respectively.
+- Saas Ko'sah: Control hub for the Guardian bays beneath Hyrule Castle. Requires a Major Test of Strength to enter.
+- Master Sword's Pedestal: Linked to a tribunal of monks tasked with containing the fragments of Demise's essence sealed within the Master Sword. The only way to interface with Fi anymore, until the Sword Trial has been completed and the spreading taint of Demise cleansed once more.
+- Yiga Clan Hideout: Situated over one of Ganon's old strongholds. Contains records of Ganon himself, as well as knowledge of and from the Yiga after they split from the Sheikah.
 
 
 Misc. Lines

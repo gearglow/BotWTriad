@@ -68,3 +68,4 @@ return
 :R:=mr::Magnesis
 :R:=kk::Kakariko
 :R:=cr::Cryonis
+:R:=tf::Triforce
