@@ -42,6 +42,10 @@ Plot Points:
 
 - Maz Koshia cut the power to the Divine Beasts when Ganon killed their Champions. It was reactivated when L and Z awoke, in order to enable access to the shrines and towers.
 
+- The triad forge new weapons. Paya's defensive enchantments make them unbreakable, Zelda's battle magic lets them channel the elements, and Link's transformation magic lets them shift into any form the wielder wishes, flowing like quicksilver.
+
+- Scavenged Guardian beam emitter parts, and collaboration with Robbie, lead to, effectively, blaster rifles.
+
 
 Character Profiles
 -----------------------
