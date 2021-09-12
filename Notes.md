@@ -92,6 +92,7 @@ Knowledge Banks and Their Monk Overseers
 - Saas Ko'sah: Control hub for the Guardian bays beneath Hyrule Castle. Requires a Major Test of Strength to enter.
 - Master Sword's Pedestal: Linked to a tribunal of monks tasked with containing the fragments of Demise's essence sealed within the Master Sword. The only way to interface with Fi anymore, until the Sword Trial has been completed and the spreading taint of Demise cleansed once more.
 - Yiga Clan Hideout: Situated over one of Ganon's old strongholds. Contains records of Ganon himself, as well as knowledge of and from the Yiga after they split from the Sheikah.
+- Korgu Chideh: Contains knowledge about other worlds. Located on Eventide Island.
 
 
 Misc. Lines
