@@ -43,5 +43,7 @@
     "Mipha",
     "Triforce",
     "Hateno"
-  ]
+  ],
+  "legacyEditor": false,
+  "livePreview": true
 }
